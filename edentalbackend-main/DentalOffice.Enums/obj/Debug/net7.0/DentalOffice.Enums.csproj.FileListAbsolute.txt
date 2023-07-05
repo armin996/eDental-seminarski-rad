@@ -1,0 +1,72 @@
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll

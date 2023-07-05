@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.WinFormsUI\\DentalOffice.WinFormsUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj",
+        "projectName": "DentalOffice.Dtos",
+        "projectPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\DentalOffice.Enums.csproj": {
+                "projectPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\DentalOffice.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\DentalOffice.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\DentalOffice.Enums.csproj",
+        "projectName": "DentalOffice.Enums",
+        "projectPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\DentalOffice.Enums.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.WinFormsUI\\DentalOffice.WinFormsUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.WinFormsUI\\DentalOffice.WinFormsUI.csproj",
+        "projectName": "DentalOffice.WinFormsUI",
+        "projectPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.WinFormsUI\\DentalOffice.WinFormsUI.csproj",
+        "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.WinFormsUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Armin\\Desktop\\eDental-seminarski-rad-main\\edentalbackend-main\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.100.3, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

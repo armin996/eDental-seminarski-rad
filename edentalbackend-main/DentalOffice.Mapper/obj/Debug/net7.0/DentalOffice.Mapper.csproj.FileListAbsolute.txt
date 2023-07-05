@@ -1,0 +1,114 @@
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.deps.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.csproj.CopyComplete
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\refint\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.Mapper\obj\Debug\net7.0\ref\DentalOffice.Mapper.dll

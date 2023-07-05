@@ -1,0 +1,348 @@
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+D:\Users\harun\Source\Repos\DentalOfficeApp\DentalOffice\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+C:\Users\Armin\Desktop\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.Properties.Resources.resources
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.GenerateResource.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+C:\Users\Armin\Desktop\eDental-master\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.Properties.Resources.resources
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.GenerateResource.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+D:\Users\Downloads\eDental-seminarski-rad-main\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.exe
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.deps.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.runtimeconfig.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Dtos.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Mapper.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\bin\Debug\net7.0\DentalOffice.Repositories.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.Properties.Resources.resources
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.GenerateResource.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfoInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.AssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.DentalOffice.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalOffice.API.props
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\scopedcss\bundle\DentalOffice.API.styles.css
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.csproj.CopyComplete
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\refint\DentalOffice.API.dll
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.pdb
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\DentalOffice.API.genruntimeconfig.cache
+C:\Users\Armin\Desktop\eDental-seminarski-rad-main\edentalbackend-main\DentalOffice.API\obj\Debug\net7.0\ref\DentalOffice.API.dll
